@@ -12,3 +12,5 @@ language:
   - ruby
 resources: 
   - 0
+
+parent_template: git@github.com:learn-co-curriculum/enumerator-coding-challenge.git

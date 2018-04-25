@@ -248,4 +248,4 @@ end
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/enumerator-coding-challenge' title='Enumerator Coding Challenge'>Enumerator Coding Challenge</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Enumerator Coding Challenge</p>
